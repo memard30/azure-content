@@ -12,7 +12,7 @@
    ms.topic="article"
    ms.tgt_pltfrm="NA"
    ms.workload="TBD"
-   ms.date="12/02/2015"
+   ms.date="03/23/2016"
    ms.author="alkohli" />
 
 # Troubleshoot StorSimple device deployment issues
